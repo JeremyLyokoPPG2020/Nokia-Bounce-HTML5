@@ -1,0 +1,41 @@
+{
+  "player": { "x": 80, "y": 520 },
+
+  "platforms": [
+    { "x": 400, "y": 580, "width": 800, "height": 40 },
+    { "x": 400, "y": 20,  "width": 800, "height": 40 },
+    { "x": 40,  "y": 300, "width": 40,  "height": 520 }
+  ],
+
+  "spikes": [
+    { "x": 320, "y": 560 },
+    { "x": 480, "y": 560 }
+  ],
+
+  "hoops": [
+    { "x": 400, "y": 470 },
+    { "x": 700, "y": 420 }
+  ],
+
+  "triangles": [
+    { "x": 340, "y": 540, "width": 220, "height": 120, "orientation": "up" },
+    { "x": 200, "y": 520, "width": 120, "height": 120, "orientation": "right" },
+    { "x": 600, "y": 520, "width": 120, "height": 120, "orientation": "left" }
+  ],
+
+
+  "movingSpikes": [
+    { "x": 320, "y": 560, "rangeX": 160, "speed": 80 }
+  ],
+
+  "collectibles": [
+    { "x": 400, "y": 440, "type": "diamond" },
+    { "x": 560, "y": 460, "type": "hoop" }
+  ],
+
+  "speedBoosters": [
+    { "x": 220, "y": 560, "width": 80 }
+  ],
+
+  "goal": { "x": 720, "y": 520 }
+}

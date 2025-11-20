@@ -1,0 +1,11 @@
+Unsis SiS unpacker 
+~~~~~~~~~~~~~~~~~~
+
+Required: Java Runtime Library 1.4 !!!!
+
+Usage: unsis <sis file> <target path>
+
+By Robert Szakalli (Seaky)
+
+email: seaky@fbi.hu
+
